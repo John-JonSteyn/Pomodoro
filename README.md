@@ -110,7 +110,7 @@ Contributions are welcome! To contribute to the Pomodoro project, follow these s
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU License. See `LICENSE` for more information.
 
 </div>
 
@@ -123,5 +123,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [stars-url]: https://github.com/Kayzels/Pomodoro/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Kayzels/Pomodoro.svg?style=for-the-badge
 [issues-url]: https://github.com/Kayzels/Pomodoro/issues
-[license-shield]: https://img.shields.io/github/license/Kayzels/Pomodoro.svg?style=for-the-badge
-[license-url]: https://github.com/Kayzels/Pomodoro/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/Pomodoro.svg?style=for-the-badge
+[license-url]: https://github.com/Thorin-the-Bearded/Pomodoro/blob/main/LICENSE
