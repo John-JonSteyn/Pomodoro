@@ -123,5 +123,5 @@ Distributed under the GNU License. See `LICENSE` for more information.
 [stars-url]: https://github.com/Kayzels/Pomodoro/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Kayzels/Pomodoro.svg?style=for-the-badge
 [issues-url]: https://github.com/Kayzels/Pomodoro/issues
-[license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/Pomodoro.svg?style=for-the-badge
-[license-url]: https://github.com/Thorin-the-Bearded/Pomodoro/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/John-JonSteyn/Pomodoro.svg?style=for-the-badge
+[license-url]: https://github.com/John-JonSteyn/Pomodoro/blob/main/LICENSE
